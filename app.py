@@ -31,7 +31,7 @@ def main():
 def run_ml_app():
     design = """<div style="padding:15px;">
                     <h1 style="color:#000">Loan Eligibility Prediction</h1>
-                    <p style="color:#000">Fill this sumlation according to the actual condition</p>
+                    <p style="color:#000">Fill this simulation according to the actual condition</p>
                 </div
              """
     st.markdown(design, unsafe_allow_html=True)
